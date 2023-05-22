@@ -1,0 +1,13 @@
+/home/aaron/Documents/rust/rocket/target/debug/deps/bitflags-b8fa915b6da782d0.rmeta: /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/lib.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/iter.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/parser.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/traits.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/public.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/internal.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/external.rs
+
+/home/aaron/Documents/rust/rocket/target/debug/deps/libbitflags-b8fa915b6da782d0.rlib: /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/lib.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/iter.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/parser.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/traits.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/public.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/internal.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/external.rs
+
+/home/aaron/Documents/rust/rocket/target/debug/deps/bitflags-b8fa915b6da782d0.d: /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/lib.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/iter.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/parser.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/traits.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/public.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/internal.rs /home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/external.rs
+
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/lib.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/iter.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/parser.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/traits.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/public.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/internal.rs:
+/home/aaron/.cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.3.1/src/external.rs:
